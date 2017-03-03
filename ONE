@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>百度第一课</title>
+</head>
+<body>
+<h1>网站一级标题</h1>
+<ul>
+	<li><a href="">导航链接1</a></li>
+	<li><a href="">导航链接2</a></li>
+	<li><a href="">导航链接3</a></li>
+	<li><a href="">导航链接4</a></li>
+</ul>
+<h2>文章一级标题</h2>
+<h3>文章二级标题</h3>
+<p>作者：某某某 &nbsp;&nbsp;发表时间：******</p>
+<p>有一段青春，留作永恒。剪一段时光，放在最美的段落。好好保存留作永远，时间过去岁月的路过。只是多了一道曾经，流年一路改变了我们的模样。送走了我们的青春，留给了我们曾经。<br/>
+有一段青春，埋葬的时间。总有一些人拼了命的，挽留最终还是留不住。总有一些话始终未能说出口，直至最后再也不必说出口。埋葬过去，我们有着太多的沉默。像是在时间的路刚好遇见，只是你装做什么也没看见。很多年过去了，我始终在这里执着。<a href="http://life.baidu.com">http://life.baidu.com</a>时间走过这里并没有,我想要的段落。也许下一段时光，会遇见一个更好的彼岸。流年划过陌路，我们终于渐行渐远。来不及说再见，也来不及为那段。往事而伤心哭泣，一切要走都是上天。许早准备好的，只待我们路过此地。</p>
+<h2>文章一级标题</h2>
+<h3>文章二级标题</h3>
+<p>作者：某某某 &nbsp;&nbsp;发表时间：******</p>
+<p>有一段青春，留作永恒。剪一段时光，放在最美的段落。好好保存留作永远，时间过去岁月的路过。只是多了一道曾经，流年一路改变了我们的模样。送走了我们的青春，留给了我们曾经。<br/>
+有一段青春，埋葬的时间。总有一些人拼了命的，挽留最终还是留不住。总有一些话始终未能说出口，直至最后再也不必说出口。埋葬过去，我们有着太多的沉默。像是在时间的路刚好遇见，只是你装做什么也没看见。很多年过去了，我始终在这里执着。<a href="http://life.baidu.com">http://life.baidu.com</a>时间走过这里并没有,我想要的段落。<b>也许下一段时光，</b>会遇见一个更好的彼岸。流年划过陌路，我们终于渐行渐远。来不及说再见，也来不及为那段。往事而伤心哭泣，一切要走都是上天。许早准备好的，只待我们路过此地。</p>
+<img src="images/a.jpg"/>
+<ul>
+	<li>列表项目1</li>
+	<li>列表项目2</li>
+	<li>列表项目3</li>
+</ul>
+<h3>图片</h3>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<p>好看的图片</p>
+<img src="images/a.jpg"/>
+<h2>最后文章一级标题</h2>
+<h3>最后文章二级标题</h3>
+<p>作者：某某某 &nbsp;&nbsp;发表时间：******</p>
+<ol>
+	<li>第一项目</li>
+	<li>第二项目</li>
+	<li>第三项目</li>
+</ol>
+	<p>下面是一个表格啦</p>
+	<table border="1">
+		<tr>
+			<th>表头</th>
+			<th>表头</th>
+			<th>表头</th>
+		</tr>
+		<tr>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+		</tr>
+		<tr>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+		</tr>
+		<tr>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+		</tr>
+		<tr>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+			<td>单元格的第一行</td>
+		</tr>
+		<tr>
+			<td colspan="1">单元格</td>
+			<td colspan="2">单元格的第一行</td>
+		</tr>
+	</table>
+
+<h2>侧栏是啥</h2>
+<h3>侧栏标题</h3>
+请输入邮箱地址：<input type="text" name=""><br/>
+邮箱地址请按要求格式输入<br/><br/>
+请输入密码：<input type="text" name="">
+&nbsp;
+请重复输入密码：<input type="text" name=""><br/>
+密码请为6-16位英文数字<br/>
+<br/>
+<form>
+性别： <input type="radio" checked="checked" name="Sex" value="male">男<input type="radio" checked="checked" name="Sex" value="female">女&nbsp;
+城市：
+<select>
+	<option value="beijing">
+		北京
+	</option >
+	
+	<option value="dalian">
+		大连
+	</option>	
+
+	<option value="hulunbeier">
+		呼伦贝尔
+	</option>
+</select>
+&nbsp;&nbsp;
+爱好：
+<input type="checkbox" name="sport">运动
+<input type="checkbox" name="art">艺术
+<input type="checkbox" name="science">科学
+个人描述：
+<textarea name="inputs" cols="20" rows="2"></textarea>
+<input type="submit" name="" value="提交">
+</form>
+
+版权所有@
+</body>
+</html>
